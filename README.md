@@ -31,6 +31,8 @@ Pixin.instance.init(this@App);
 Pixin.instance.load(URL:String, Placeholder:Int, iv:ImageView)
 ```
 
+**Applied on RecyclerView**
+![alt text](https://github.com/alitele/Pixin/blob/master/sample.png)
 
 Developer:Ali Akram
 Contact: aliakram.me@hotmail.com
