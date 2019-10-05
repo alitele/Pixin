@@ -26,6 +26,7 @@ Pixin.instance.init(this@App);
 ```
 
 **Step : 2**
+
 //Load image
 ```
 Pixin.instance.load(URL:String, Placeholder:Int, iv:ImageView)
